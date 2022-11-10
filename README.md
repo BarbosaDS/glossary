@@ -1,0 +1,2 @@
+# glossary
+example glossary images
